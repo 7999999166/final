@@ -87,7 +87,7 @@ justify-content: center;
     margin-top: 23px;
 }
 .yy{
-    margin-bottom: 120px;
+    margin-bottom: 105px;
 }
 </style>
 <div class="aa">
