@@ -81,7 +81,7 @@ justify-content: center;
 width: 95px;
 }
 .mmm{
-    margin-top: 70%;
+    margin-top: 40%;
 }
 .ttt{
     text-align: center;
