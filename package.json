@@ -5,6 +5,10 @@
     "test": "web-test-runner \"src/**/*.test.js\""
   },
   "dependencies": {
+    "@bjornlu/svelte-router": "^0.4.1",
+    "@capacitor/android": "^3.0.0",
+    "@capacitor/cli": "^3.0.0",
+    "@capacitor/core": "^3.0.0",
     "svelte": "^3.37.0"
   },
   "devDependencies": {

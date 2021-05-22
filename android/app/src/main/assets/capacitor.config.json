@@ -1,0 +1,6 @@
+{
+	"appId": "com.bawana.app",
+	"appName": "bawana",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
